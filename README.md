@@ -1,2 +1,1 @@
-# workshop_project
-Ansible windows workshop
+# Welcome to the Ansible for Windows Automation Workshop!
